@@ -9,7 +9,7 @@ This project focuses on building a machine learning model to predict the prices 
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [About Dataset](#dataset)
+- [About Dataset](#about-dataset)
 - [Requirements](#requirements)
 
 ## Project Description
